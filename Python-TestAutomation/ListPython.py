@@ -234,6 +234,6 @@ print(l)
 
 
 ############ Articles
-
+https://note.nkmk.me/en/python-list-append-extend-insert/
 
 

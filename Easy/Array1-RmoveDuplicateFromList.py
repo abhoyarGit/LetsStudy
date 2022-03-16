@@ -24,4 +24,4 @@ class Solution:
 
 
 a = Solution()
-a.removeDuplicates([1, 1, 2])
+a.removeDuplicates([1, 1, 2,2,3,3])
