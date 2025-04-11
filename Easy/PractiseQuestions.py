@@ -37,6 +37,7 @@ def removeDuplicate(nums):
 
 
 #House Rob
+#https://www.youtube.com/watch?v=VXqUQYGMnQg
 # Space-complexity: O(1)
 class Solution:
     def rob(self, nums):
